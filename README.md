@@ -10,6 +10,14 @@ Area of die in Microns =660.685*671.405=443.587.212425
 
 ![diearea](https://github.com/Gurendra-tech/VSD_Workshop/assets/66545328/9aecffe7-de6e-4693-ae08-7b77c966a192)
 
+Magic Layout toOl opening through command
+![Magic layout Tool](https://github.com/Gurendra-tech/VSD_Workshop/assets/66545328/a90d3920-d80e-4d5c-95b0-6e7685501345)
+
+Tap Cell
+![Tap cell](https://github.com/Gurendra-tech/VSD_Workshop/assets/66545328/3988f759-023d-4417-a794-f3bd576061ad)
+
+
+
 
 
 
